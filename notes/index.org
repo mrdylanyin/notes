@@ -1,4 +1,3 @@
-# -*- mode: Org; org-confirm-elisp-link-function: nil; -*-
 :PROPERTIES:
 :ID:       3a4e2825-1498-41ac-a50a-5f3b034da5eb
 :END:
